@@ -372,7 +372,6 @@
   analyzer-name = "dep"
   analyzer-version = 1
   input-imports = [
-    "github.com/blang/semver",
     "github.com/lunny/html2md",
     "github.com/mattermost/mattermost-server/mlog",
     "github.com/mattermost/mattermost-server/model",
